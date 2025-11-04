@@ -1,0 +1,7 @@
+Building a Simple Neural Network for Classification:
+1)Import Library
+2)Load data
+3)Prep data
+4)Build model
+5)Train model
+6)Evaluate model's performance
